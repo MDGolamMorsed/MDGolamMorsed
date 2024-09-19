@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+JavaScript TypeScript PHP Docker React.js Vue.js Alpine.js Vite Node.js jQuery Laravel WordPress Elementor Python Markdown HTML CSS3 TailwindCSS Bootstrap MySQL MariaDB SQLite Redis Netlify Cloudflare Debian Zorin Mac OS
+
+Currently, I'm open to work and employment opportunities.
 <!--
 **MDGolamMorsed/MDGolamMorsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
